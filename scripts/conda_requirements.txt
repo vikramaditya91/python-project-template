@@ -1,0 +1,1 @@
+python==3.6.6 #As of 01-01-2020 Berryconda only supports this version
